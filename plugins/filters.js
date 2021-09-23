@@ -155,7 +155,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/trance.
         if (!!message.mention && message.mention[0] == '916282289891@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/MentionToSJ.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['ho','she','ra','mu','hot','ta','Cr7','uyir','power','va','wow','se','no','nanba','sebin','messi','maman','pha','oi','cha','muth','kiss','dey','ga','player','king','kayari','aliya','nari','omban','Hii','Da','sad','nee','myre','mood','bg','chunk','ser','kundan','sir','My','myr','umbi','bot','poda','git','alive','owner','neymar','list','help','oii','on','one','vanne','vannu','kozhi','set','Fuck','love','broke','ohoo','Bye','pne','left','Amal','don','onn','stop','setta','entry','muth','Hi','chaya']
+const array = ['ho','she','ra','mu','hot','ta','Cr7','uyir','power','va','wow','se','no','nanba','sebin','messi','maman','pha','oi','cha','muth','kiss','dey','ga','player','king','kayari','aliya','nari','omban','Hii','Da','sad','nee','myre','mood','bg','chunk','ser','kundan','sir','My','myr','umbi','bot','poda','git','alive','owner','neymar','list','help','oii','on','one','vanne','vannu','kozhi','set','Fuck','love','broke','ohoo','Bye','pne','left','Amal','don','onn','stop','setta','entry','muth','Hi','chaya','SJ']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
