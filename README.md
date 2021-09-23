@@ -1,8 +1,9 @@
 <div align="center">
 
-## Its_me_Amal 
+## Its_me_Blooper 
 
 <div align="center">
+
   <img src=https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg>
 
 ## 📢 Guide
@@ -22,7 +23,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/blooper-ser/blooper)
      </div>
 <br>
 <br >
@@ -45,10 +46,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
- https://github.com/Amalser_v1 |  
+  [![blooper](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
+ https://github.com/blooper |  
 ----|
-[Its_me_Amal](https://github.com/Amalser_v1)  |
+[Its_me_Blooper](https://github.com/blooper)  |
 Base, Bug Fixes, Modules | 
   
     
