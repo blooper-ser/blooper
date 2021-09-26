@@ -151,15 +151,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "😽  𝙽𝚓𝚗 𝙸𝚟𝚒𝚍𝚎 𝚄𝚗𝚍𝚎 🙋🏻‍♂️
-
- ```𝙲𝚘𝚍𝚎𝚍 𝙱𝚢 𝙱𝚎𝚖𝚒𝚗 𝚂𝚎𝚛```
-
-𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙼𝚢 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 💘
-https://youtube.com/channel/UC56baqlzh4BQET7S1jASiFA
-
-𝙵𝚘𝚕𝚕𝚘𝚠 𝙼𝚎 𝙾𝚗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 🤗
-https://www.instagram.com/dkc__blooper"
+            "value": "😽  𝙽𝚓𝚗 𝙸𝚟𝚒𝚍𝚎 𝚄𝚗𝚍𝚎 🙋🏻‍♂️ ```𝙲𝚘𝚍𝚎𝚍 𝙱𝚢 𝙱𝚎𝚖𝚒𝚗 𝚂𝚎𝚛```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
