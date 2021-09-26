@@ -19,7 +19,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Bemin*
-*owner number wa.me/15065021348*
+*owner number wa.me/919744267478*
 
 *My Channel : https://www.youtube.com/channel/UC56baqlzh4BQET7S1jASiFA*
 
