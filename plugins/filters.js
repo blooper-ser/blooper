@@ -187,7 +187,10 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
     if (!!message.mention && message.mention[0] == '919744267478@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/on.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/Blooper.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+    }
+    if (!!message.mention && message.mention[0] == '16043735591@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/Blooper.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
     if (!!message.mention && message.mention[0] == '916282289891@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/SJ.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
@@ -195,7 +198,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/SJ.web
     if (!!message.mention && message.mention[0] == '919847453479@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/Mentiontoansil.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-const array = ['love','list','machu','menu','mute','onn','oo','so','unmute','wait','adi','army','bye','chaya','edit','ip','kayari','mari','money','monu','nallath','night','nyt','on','patti','po','poth','sir','Amal','Hii','ee','Da','food','Hlo','para','love u','set','sed','jada','amal','Hi','sad','don','Loki','bye','SJ']
+const array = ['love','list','machu','menu','mute','onn','oo','so','unmute','wait','adi','army','bye','chaya','edit','ip','kayari','mari','money','monu','nallath','night','nyt','on','patti','po','poth','sir','Amal','Hii','ee','Da','food','Hlo','para','love u','set','sed','jada','amal','Hi','sad','don','Loki','bye','SJ','Blooper']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
