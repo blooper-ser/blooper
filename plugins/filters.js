@@ -123,7 +123,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/Mention
         if (!!message.mention && message.mention[0] == '916282289891@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/MentionToSJ.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-        if (!!message.mention && message.mention[0] == '16043735591@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '16042453989@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/trance.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == '919847453479@s.whatsapp.net') {
@@ -189,7 +189,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if (!!message.mention && message.mention[0] == '919744267478@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/Blooper.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-    if (!!message.mention && message.mention[0] == '16043735591@s.whatsapp.net') {
+    if (!!message.mention && message.mention[0] == '16042453989@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/Blooper.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
     if (!!message.mention && message.mention[0] == '916282289891@s.whatsapp.net') {
