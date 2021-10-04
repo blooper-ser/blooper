@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src=https://www.linkpicture.com/q/IMG-20210902-WA0394.jpg>
+  <img src=https://www.linkpicture.com/q/IMG_20211002_172633.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
