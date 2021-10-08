@@ -230,7 +230,7 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Blooper is completely up-to-date!*",
-            "NEW_UPDATE": "*Blooper Update und for updating command*\n\n*.update now*\n\n*please ask supporting group before updating*\n\nhttps://chat.whatsapp.com/Lvtl7GqERfP19Na6M2wndX\n\nChanges:\n```",
+            "NEW_UPDATE": "*Blooper Update und for updating command*\n\n*.update now*\n\n*please ask supporting group before updating*\n\nhttps://chat.whatsapp.com/DCNbCoIi1J07rNnCnvMuAf\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..please wait bro 5mins😊```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
